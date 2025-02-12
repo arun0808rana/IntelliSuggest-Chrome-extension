@@ -25,3 +25,8 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+## TODOS
+[ ] - Undo on `ctrl+z`
+[ ] - Probably alternative(autocorrect.js) method of autosuggestion than google
+[ ] - Backend integration for plan 2(mutate HTML page with meaning-on-hover feature based on desired weightage of word-difficulty)
